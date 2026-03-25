@@ -28,3 +28,5 @@ db.movies.find( { 'year': { $gt: 2014}, 'imdb.rating': { $gt: 9}}, {'_id': 0, 't
 The results from running this query are shown in the screenshot below.
 
 ![alt text](image-2.png)
+
+-----
