@@ -19,7 +19,8 @@ db.movies.find(
 
 The results from running this query are shown in the screenshot below.
 
-![alt text](image-1.png)
+<img width="1205" height="635" alt="image" src="https://github.com/user-attachments/assets/f6928b3a-cf1f-476c-af3f-00322fd609df" />
+
 
 For the second query, I had to find all movies after year 2014 with an imdb rating greater than 9. The appropriate query to achieve this is as follows:
 
