@@ -28,10 +28,7 @@ db.movies.find( { 'year': { $gt: 2014}, 'imdb.rating': { $gt: 9}}, {'_id': 0, 't
 
 The results from running this query are shown in the screenshot below.
 
-![alt text](image-2.png)
-
-
-
+<img width="1231" height="462" alt="image" src="https://github.com/user-attachments/assets/26ceeb85-4a4d-4bd2-9d63-76d3575ee944" />
 
 
 Below is the MongoDB compass sample_mflix movies database, which is the database on which queries were made for this assignment. 
