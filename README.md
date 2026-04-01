@@ -30,4 +30,17 @@ The results from running this query are shown in the screenshot below.
 
 ![alt text](image-2.png)
 
+
+
+
+
+Below is the MongoDB compass sample_mflix movies database, which is the database on which queries were made for this assignment. 
+<img width="1903" height="1057" alt="image" src="https://github.com/user-attachments/assets/e71e505a-72a6-4f96-93b4-6a08ad5eba33" />
+
+Below is the MongoDB atlas sample_mflix movies database, which is the database on which queries were made for this assignment. 
+<img width="1910" height="1020" alt="image" src="https://github.com/user-attachments/assets/725ddb53-3232-4911-bd90-a955f529ebea" />
+
+Below is the project overview for this assignment. All the database collections are part of cluster0. I (the admin) am the only user, and a connection string links it to the MongoDB compass database. The sample_mflix database is part of cluster0, and sample_mflix includes comments, embedded_movies, movies, sessions, theaters, and users.
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/eec8c280-3ccd-4f57-a4d4-43de32cc319f" />
+
 -----
